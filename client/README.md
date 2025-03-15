@@ -1,21 +1,23 @@
 # Client ♻️
 
-## Get started
+## Getting Started
 
-### Install dependencies
+### Install Dependencies
 
 ```bash
-yarn run install
+yarn install
 ```
 
-### Start App
+### Start the App
 
 ```bash
-yarn run start
+yarn start
 ```
 
-### Build App
+The app will open on [http://localhost:1234](http://localhost:1234).
+
+### Build the App
 
 ```bash
-yarn run build
+yarn build
 ```
