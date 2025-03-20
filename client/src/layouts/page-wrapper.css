@@ -19,7 +19,11 @@ header {
 
       /* Log in */
       &:nth-child(2) {
+        font-size: 0.8rem;
         font-weight: 500;
+        border: solid 1px #171817;
+        border-radius: 10px;
+        padding: 0.2rem 0.5rem;
       }
 
       img {

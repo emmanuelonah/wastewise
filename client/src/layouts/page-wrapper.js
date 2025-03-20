@@ -19,7 +19,7 @@ export class PageWrapper extends HTMLElement {
           <img src="${iconLogo}" alt="logo" />
           <span>Wastewise</span>
           </a>
-          <a href="#">Log in</a>
+          <a href="../login.html">Log in</a>
         </nav>
       </header>
       <main>

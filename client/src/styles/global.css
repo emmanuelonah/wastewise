@@ -1,3 +1,16 @@
+:root {
+  --mobile-start-width: '100%';
+  --mobile-end-width: '767px';
+
+  --desktop-start-width: '768px';
+  --desktop-end-width: '1420px';
+
+  --color-dark_100: #000;
+  --color-dark_200: #171817;
+
+  --color-blue_100: #007bff;
+}
+
 *,
 *::after,
 *::before {
