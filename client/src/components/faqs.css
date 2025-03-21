@@ -28,7 +28,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 1rem 1rem 1rem;
+    padding: 1rem 1rem 1rem 0;
   }
 
   summary::after {
@@ -43,8 +43,13 @@
 
   details p {
     color: #433f39;
-    padding: 0 1rem 1rem 1rem;
+    padding: 0 1rem 1rem 0;
     font-size: 14px;
+    font-weight: 500;
     margin: 0;
   }
+}
+
+details summary::-webkit-details-marker {
+  display: none;
 }

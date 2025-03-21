@@ -33,7 +33,7 @@ export class Faqs extends HTMLElement {
             <details class="faq">
               <summary>How can I contact Wastewise?</summary>
               <p>You can contact Wastewise by sending an email to
-                <a href="mailto:emmajerry2016@gmail.com">emmajerry2016@gmail.com</a>
+                <a href="mailto:wastewise@demo.com">wastewise@demo.com</a>
               </p>
             </details>        
           </div>
